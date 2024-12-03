@@ -1,0 +1,10 @@
+/* -_-_-_- STYLES PAGE LESSSSGOOOOOOOO!! -_-_-_- */
+/* General */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: green;
+    padding: 1%;
+    font-size: 2vw;
+}
