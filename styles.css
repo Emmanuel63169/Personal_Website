@@ -5,6 +5,48 @@ nav{
     align-items: center;
     justify-content: space-between;
     background: green;
-    padding: 1%;
-    font-size: 2vw;
+    padding: 0.5%;
+    font-size: 1.5vw;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
 }
+.spacer{
+    width: 100%;
+    height: 6vw;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: green;
+    padding: 1%;
+    font-size: 1.5vw;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+/* Home page */
+.home_body{
+    background-color: lightseagreen;
+}
+.me_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    background-color: lightslategray;
+    height: 750px;
+    width: 50%;
+}
+.me_image{
+     display: inline-flex;
+     padding-left: 10px;
+}
+/* About Page */
+
+/* Portfolio Page */
+
+/* Contact Page */
