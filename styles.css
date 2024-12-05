@@ -42,7 +42,7 @@ footer{
     justify-content: space-evenly;
     align-content: center;
     background-color: lightslategray;
-    height: 750px;
+    height: 90vh;
     width: 64%;
     margin-left: 17%;
     margin-right: 17%;
@@ -61,7 +61,7 @@ footer{
     align-items: center;
     padding: 15px;
     width: 66%;
-    height: 15vw;
+    height: 35vh;
     margin-left: 17%;
     margin-right: 17%;
 }
@@ -72,7 +72,7 @@ footer{
     align-items: center;
     padding: 15px;
     width: 66%;
-    height: 15vw;
+    height: 35vh;
     margin-left: 17%;
     margin-right: 17%;
 }
@@ -82,7 +82,7 @@ footer{
     align-items: center;
     padding: 15px;
     width: 66%;
-    height: 15vw;
+    height: 35vh;
     margin-left: 17%;
     margin-right: 17%;
 }
@@ -95,7 +95,7 @@ footer{
     grid-template-columns: 33% 33% 33%;
     grid-template-rows: 33% 33% 33%;
     background-color: burlywood;
-    height: 38vw;
+    height: 90vh;
     margin-left: 17%;
     margin-right: 17%;
 }
@@ -119,5 +119,14 @@ footer{
 }
 /* -_-_-_- Contact Page -_-_-_- */
 .contact_body{
-    background-color: forestgreen;
+    background-color: aquamarine;
+}
+.contact_boxes{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.contact_title{
+    font-size: 25px;
 }
