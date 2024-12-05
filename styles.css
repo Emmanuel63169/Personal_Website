@@ -124,9 +124,24 @@ footer{
 .contact_boxes{
     display: flex;
     flex-direction: column;
-    padding-left: 20%;
-    padding-right: 20%;
+    background-color: darkcyan;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 2%;
+    height: 90vh;
 }
 .contact_title{
     font-size: 25px;
+}
+.name_box{
+    width: 20em;
+    height: 2em;
+}
+.email_box{
+    width: 20em;
+    height: 2em;
+}
+.message_box{
+    width: 25em;
+    height: 6em;
 }
