@@ -40,13 +40,48 @@ footer{
     background-color: lightslategray;
     height: 750px;
     width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 .me_image{
      display: inline-flex;
      padding-left: 10px;
 }
 /* About Page */
-
+.about_body{
+    background-color: goldenrod;
+}
+.art_section{
+    display: flex;
+    background-color: firebrick;
+    align-items: center;
+    padding: 15px;
+    width: 66%;
+    height: 15vw;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.bass_section{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: coral;
+    align-items: center;
+    padding: 15px;
+    width: 66%;
+    height: 15vw;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.videogames_section{
+    display: flex;
+    background-color: lightcoral;
+    align-items: center;
+    padding: 15px;
+    width: 66%;
+    height: 15vw;
+    margin-left: 17%;
+    margin-right: 17%;
+}
 /* Portfolio Page */
 
 /* Contact Page */
