@@ -47,9 +47,13 @@ footer{
     margin-left: 17%;
     margin-right: 17%;
 }
-.me_image{
-     display: inline-flex;
-     padding-left: 10px;
+.me_info{
+    display: flex;
+    padding: 3vw;
+}
+.quote{
+    width: 100%;
+    padding-left: 15vw;
 }
 /* -_-_-_- About Page -_-_-_- */
 .about_body{
