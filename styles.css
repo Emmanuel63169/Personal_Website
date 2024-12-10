@@ -90,6 +90,12 @@ footer{
     margin-left: 17%;
     margin-right: 17%;
 }
+@media screen (max-width: 760px){
+ .me_section{
+    display: flex;
+    flex-wrap: wrap; 
+ }
+}
 /* -_-_-_- Portfolio Page -_-_-_- */
 .portfolio_body{
     background-color: rgb(140, 37, 37);
